@@ -1,0 +1,7 @@
+// caso o estilo da img estivesse pronto no css
+// function adicionarFilme() {
+// var filmeFavorito = document.getElementById("filme").value;
+// document.write("<img src=" + filmeFavorito + ">");
+// }
+
+// innerhtml insere
